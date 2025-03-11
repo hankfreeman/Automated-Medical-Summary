@@ -20,8 +20,9 @@ The core functionality of the code is the following:
 4. Build MedicalSummary.docx from master JSON file including footnotes
 
 ## PROGRAM 1 - Analyze Medical Records
-![Screenshot 2025-02-25 090721](https://github.com/user-attachments/assets/ff43a876-818c-440d-a762-015ee7d41b55)
+![johntest11](https://github.com/user-attachments/assets/0195cdaf-6e44-4c20-8dda-d941651bc8df)
+
 
 ## PROGRAM 2 - Generate Medical Summary
-![Screenshot 2025-02-25 090738](https://github.com/user-attachments/assets/ce3df3e9-eab1-42e4-9684-c713b6228a53)
+![johntest22](https://github.com/user-attachments/assets/721baa82-3779-4399-b5b1-8c515b2443ef)
 
